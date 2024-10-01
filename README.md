@@ -1,4 +1,11 @@
-# `after-effects`
+
+# All changes have been merged upstream, use the [original repository](https://github.com/virtualritz/after-effects)
+
+<hr>
+<hr>
+<hr>
+
+## `after-effects`
 
 High level bindings for the Adobe AfterEffects® (Ae) and Adobe Premiere Pro® SDKs.
 
